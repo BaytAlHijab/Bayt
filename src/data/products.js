@@ -1,0 +1,183 @@
+export const PRODUCTS = [
+  {
+    id: 1,
+    name: "Quran Gift Hampers",
+    category: "Hampers",
+    sub: "Customized · Premium",
+    price: "Custom",
+    emoji: "✨",
+    images: ["hampers/hamper3", "hampers/Hamper_1"],
+    description:
+      "Gift your loved ones with our premium Quran gift hamper, filled with modesty. Customizable as required.",
+  },
+  {
+    id: 2,
+    name: "Hijab Gift Hampers",
+    category: "Hampers",
+    sub: "Customized · Premium",
+    price: "Custom",
+    emoji: "✨",
+    images: ["hampers/Hijab_hamper", "hampers/Hijab_hamper_2"],
+    description:
+      "Gift your loved ones with our premium Hijab gift hamper, filled with modesty. Customizable as required.",
+  },
+  {
+    id: 3,
+    name: " Heavy Chiffon Hijab",
+    category: "Chiffon",
+    sub: "Everyday · Lightweight · 2m",
+    price: 150,
+    emoji: "🧕",
+    images: ["chiffon/Chiffon", "chiffon/CHiff"],
+    description:
+      "A breathable everyday chiffon hijab with a smooth, fluid drape. Ideal for warm weather and daily wear.",
+  },
+  {
+    id: 4,
+    name: "Black Jersey Hijab",
+    category: "Jersey",
+    sub: "Premium · Smooth · 2m",
+    price: 250,
+    emoji: "🧣",
+    images: ["jersey/Jersey"],
+    description:
+      "Elegant jersey hijabs crafted for all-day comfort, effortless drape, and timeless modest style.",
+  },
+  {
+    id: 5,
+    name: "Floral Printed Hijabs",
+    category: "Floral",
+    sub: "Occasion · Formal · 2m",
+    price: 210,
+    emoji: "🎀",
+    images: ["floral/floral_2", "floral/Floral_1"],
+    description:
+      "Graceful floral print hijabs designed to add a soft, elegant touch to your everyday modest wear.",
+  },
+  {
+    id: 6,
+    name: "StripedHijab",
+    category: "Stripes",
+    sub: "Smooth · Elegant · 2m",
+    price: 230,
+    emoji: "🌿",
+    images: ["stripes/Stripes"],
+    description:
+      "Striped hijabs crafted for a modern, effortless look with everyday comfort and elegance.",
+  },
+  {
+    id: 7,
+    name: "Moja Chiffon Hijabs",
+    category: "Chiffon",
+    sub: "Everyday · Textured · 2m",
+    price: 250,
+    emoji: "🌸",
+    images: [
+      "chiffon/Moja_Chiffon",
+      "chiffon/Moja_Chiffon2",
+      "chiffon/Moja_Chiffon3",
+    ],
+    description:
+      "Soft fabric with perfect drape designed for all day comfort. ",
+  },
+  {
+    id: 8,
+    name: "Crochette Chiffon Hijabs",
+    category: "Chiffon",
+    sub: "Premium · Formal · 2m",
+    price: 250,
+    emoji: "🌙",
+    images: ["chiffon/Crochet_hij", "chiffon/Crochet_Chiffon"],
+    description: "The Lightness of chiffon meets the artistry of crochet.",
+  },
+  {
+    id: 9,
+    name: "Organza Shimmer Hijab",
+    category: "Shimmer",
+    sub: "Shiny · Formal · 2m",
+    price: 250,
+    emoji: "✨",
+    images: ["shimmer/shimme", "shimmer/Shimm"],
+    description:
+      "Luxurious organza shimmer hijabs that bring a graceful glow and elegant finish to every outfit.",
+  },
+
+  {
+    id: 10,
+    name: "Hijab Pin Set",
+    category: "Accessories",
+    sub: "Customized · Premium",
+    price: 50,
+    emoji: "✨",
+    images: ["accessories/pins"],
+    description:
+      "Gift your loved ones with our premium hamper, filled with modesty.",
+  },
+  {
+    id: 11,
+    name: "Scrunchies Set",
+    category: "Accessories",
+    sub: "Customized · Premium",
+    price: 15,
+    emoji: "✨",
+    images: ["accessories/scrunchies"],
+    description:
+      "Gift your loved ones with our premium hamper, filled with modesty.",
+  },
+  {
+    id: 12,
+    name: "Hijab Cap",
+    category: "Accessories",
+    sub: "Customized · Premium",
+    price: 60,
+    emoji: "✨",
+    images: ["accessories/hijab_cap"],
+    description:
+      "Gift your loved ones with our premium hamper, filled with modesty.",
+  },
+  {
+    id: 13,
+    name: "Tie Cap",
+    category: "Accessories",
+    sub: "Customized · Premium",
+    price: 120,
+    emoji: "✨",
+    images: ["accessories/tie_cap"],
+    description:
+      "Gift your loved ones with our premium hamper, filled with modesty.",
+  },
+  {
+    id: 14,
+    name: "Zera Hair Clip (1 pc) ",
+    category: "Accessories",
+    sub: "Customized · Premium",
+    price: 40,
+    emoji: "✨",
+    images: ["accessories/hairclips"],
+    description:
+      "Gift your loved ones with our premium hamper, filled with modesty.",
+  },
+
+  {
+    id: 15,
+    name: "Hand Sleeves",
+    category: "Accessories",
+    sub: " ",
+    price: 70,
+    emoji: "✨",
+    images: ["accessories/handsleeves"],
+    description:
+      "Gift your loved ones with our premium Hijab gift hamper, filled with modesty. Customizable as required.",
+  },
+  {
+    id: 16,
+    name: "Turban Cap",
+    category: "Accessories",
+    sub: "Customized · Premium",
+    price: 140,
+    emoji: "✨",
+    images: ["accessories/Turban_cap"],
+    description:
+      "Gift your loved ones with our premium hamper, filled with modesty.",
+  },
+];
