@@ -1002,6 +1002,7 @@ body {
   z-index: 1001;
   width: min(380px, 100vw);
   height: 100vh;
+  height: 100dvh;
   background: var(--white);
   display: flex;
   flex-direction: column;
