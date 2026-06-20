@@ -76,6 +76,7 @@ export const PRODUCTS = [
       "chiffon/Moja_Chiffon",
       "chiffon/Moja_Chiffon2",
       "chiffon/Moja_Chiffon3",
+      "chiffon/Moja_Chiffon4",
     ],
     description:
       "Soft fabric with perfect drape designed for all day comfort. ",
