@@ -26,7 +26,7 @@ export const PRODUCTS = [
     name: " Heavy Chiffon Hijab",
     category: "Chiffon",
     sub: "Everyday · Lightweight · 2m",
-    price: 150,
+    price: 160,
     emoji: "🧕",
     images: ["chiffon/Chiffon", "chiffon/CHiff"],
     description:
@@ -37,7 +37,7 @@ export const PRODUCTS = [
     name: "Black Jersey Hijab",
     category: "Jersey",
     sub: "Premium · Smooth · 2m",
-    price: 250,
+    price: 260,
     emoji: "🧣",
     images: ["jersey/Jersey"],
     description:
@@ -70,7 +70,7 @@ export const PRODUCTS = [
     name: "Moja Chiffon Hijabs",
     category: "Chiffon",
     sub: "Everyday · Textured · 2m",
-    price: 250,
+    price: 260,
     emoji: "🌸",
     images: [
       "chiffon/Moja_Chiffon",
@@ -96,7 +96,7 @@ export const PRODUCTS = [
     name: "Organza Shimmer Hijab",
     category: "Shimmer",
     sub: "Shiny · Formal · 2m",
-    price: 250,
+    price: 260,
     emoji: "✨",
     images: ["shimmer/shimme", "shimmer/Shimm"],
     description:
