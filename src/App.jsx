@@ -7,7 +7,7 @@ import TestimonialsScroller from "./components/TestimonialScroller";
 import { CATEGORIES, TESTIMONIALS } from "./data/constants";
 import { PRODUCTS } from "./data/products";
 import { buildWaUrl } from "./utils/whatsapp";
-import Logo from "./assets/Logo.jpeg";
+import new_logo from "./assets/new_logo.png";
 
 export default function App() {
   const [activeCategory, setActiveCategory] = useState("All");
@@ -77,7 +77,12 @@ export default function App() {
           }}
         >
           <div className="logo-mark">
-            <img src={Logo} alt="Bayt Al Hijab Logo" height={50} width={50} />
+            <img
+              src={new_logo}
+              alt="Bayt Al Hijab Logo"
+              height={50}
+              width={50}
+            />
           </div>
           <span className="brand-name">Bayt Al Hijab</span>
         </div>
@@ -247,24 +252,6 @@ export default function App() {
           ))}
         </div>
       </section>
-
-      <div className="section-wrap" style={{ paddingTop: 0 }}>
-        <div className="promo-banner">
-          <div className="promo-text">
-            <h3>Eid Sale is live</h3>
-            <p>Up to 10% off select styles</p>
-          </div>
-          <button
-            className="btn-promo"
-            onClick={() => {
-              setActiveCategory("All");
-              scrollTo("shop");
-            }}
-          >
-            Explore collection
-          </button>
-        </div>
-      </div>
 
       <section id="about" className="about-section">
         <div className="about-inner">
