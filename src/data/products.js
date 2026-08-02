@@ -37,7 +37,7 @@ export const PRODUCTS = [
     name: "Black Jersey Hijab",
     category: "Jersey",
     sub: "Premium · Smooth · 2m",
-    price: 260,
+    price: 270,
     emoji: "🧣",
     images: ["jersey/Jersey"],
     description:
