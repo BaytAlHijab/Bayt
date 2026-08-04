@@ -3,6 +3,7 @@ export const WA_NUMBER = "7845590158"; // replace with actual number
 export const CATEGORIES = [
   "All",
   "Chiffon",
+  "Animal Print",
   "Jersey",
   "Floral",
   "Stripes",
