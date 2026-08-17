@@ -4,10 +4,11 @@ export const CATEGORIES = [
   "All",
   "Chiffon",
   "Animal Print",
+  "Indomie",
   "Jersey",
-  "Floral",
-  "Stripes",
   "Shimmer",
+  "Stripes",
+  "Floral",
   "Hampers",
   "Accessories",
 ];

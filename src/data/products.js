@@ -52,6 +52,17 @@ export const PRODUCTS = [
   },
   {
     id: 5,
+    name: "Indomie Hijab",
+    category: "Indomie",
+    sub: "UltraSoft · Lightweight · 2m",
+    price: 250,
+    emoji: "✨",
+    images: ["indome/indome_hijab", "indome/indome_hijab_1"],
+    description:
+      "Experience all-day comfort with our premium Indomie Modal Scarf-feels feather-light on your hair and keeps you cozy from morning to night.",
+  },
+  {
+    id: 6,
     name: "Organza Shimmer Hijab",
     category: "Shimmer",
     sub: "Shiny · Formal · 2m",
@@ -62,7 +73,7 @@ export const PRODUCTS = [
       "Luxurious organza shimmer hijabs that bring a graceful glow and elegant finish to every outfit.",
   },
   {
-    id: 6,
+    id: 7,
     name: " Heavy Chiffon Hijab",
     category: "Chiffon",
     sub: "Everyday · Lightweight · 2m",
@@ -95,7 +106,7 @@ export const PRODUCTS = [
       "A breathable everyday chiffon hijab with a smooth, fluid drape. Ideal for warm weather and daily wear.",
   },
   {
-    id: 7,
+    id: 8,
     name: "Black Jersey Hijab",
     category: "Jersey",
     sub: "Premium · Smooth · 2m",
@@ -106,7 +117,7 @@ export const PRODUCTS = [
       "Elegant jersey hijabs crafted for all-day comfort, effortless drape, and timeless modest style.",
   },
   {
-    id: 8,
+    id: 9,
     name: "StripedHijab",
     category: "Stripes",
     sub: "Smooth · Elegant · 2m",
@@ -117,7 +128,7 @@ export const PRODUCTS = [
       "Striped hijabs crafted for a modern, effortless look with everyday comfort and elegance.",
   },
   {
-    id: 9,
+    id: 10,
     name: "Floral Printed Hijabs",
     category: "Floral",
     sub: "Occasion · Formal · 2m",
@@ -129,7 +140,7 @@ export const PRODUCTS = [
   },
 
   {
-    id: 10,
+    id: 11,
     name: "Crochette Chiffon Hijabs",
     category: "Chiffon",
     sub: "Premium · Formal · 2m",
@@ -140,7 +151,7 @@ export const PRODUCTS = [
   },
 
   {
-    id: 11,
+    id: 12,
     name: "Neck Shoulder Sleeve Extender",
     category: "Accessories",
     sub: "Flexible · Comfortable",
@@ -151,7 +162,7 @@ export const PRODUCTS = [
       "Enhance your outfits with extra neck, shoulder, and sleeve coverage. Soft, breathable, and comfortable all day.",
   },
   {
-    id: 12,
+    id: 13,
     name: "Hand Sleeves",
     category: "Accessories",
     sub: "Flexible · Comfortable",
@@ -162,7 +173,7 @@ export const PRODUCTS = [
       "Lightweight arm sleeves offering modest coverage and all-day comfort.",
   },
   {
-    id: 13,
+    id: 14,
     name: "Hijab Cap",
     category: "Accessories",
     sub: "Breathable · Essential",
@@ -173,7 +184,7 @@ export const PRODUCTS = [
       "Breathable inner cap designed to keep hijabs in place comfortably.",
   },
   {
-    id: 14,
+    id: 15,
     name: "Tie Cap",
     category: "Accessories",
     sub: "Adjustable · Secure",
@@ -184,7 +195,7 @@ export const PRODUCTS = [
       "Adjustable tie-back cap that provides a secure and comfortable fit under hijabs.",
   },
   {
-    id: 15,
+    id: 16,
     name: "Turban Cap",
     category: "Accessories",
     sub: " Comfortable · Stylish ",
@@ -196,7 +207,7 @@ export const PRODUCTS = [
   },
 
   {
-    id: 16,
+    id: 17,
     name: "Scrunchies Set",
     category: "Accessories",
     sub: "Gentle · Trendy",
@@ -207,7 +218,7 @@ export const PRODUCTS = [
       "Soft fabric scrunchies that hold hair gently without causing damage.",
   },
   {
-    id: 17,
+    id: 18,
     name: "Zera Hair Clip (1 pc) ",
     category: "Accessories",
     sub: "Elegant · Practical",
@@ -217,7 +228,7 @@ export const PRODUCTS = [
     description: "Durable hair clip for secure hold and effortless styling.",
   },
   {
-    id: 18,
+    id: 19,
     name: "Hijab Pin Set",
     category: "Accessories",
     sub: "Secure · Elegant",
