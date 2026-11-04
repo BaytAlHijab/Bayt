@@ -181,9 +181,19 @@ export const PRODUCTS = [
     images: ["chiffon/Crochet_hij", "chiffon/Crochet_Chiffon"],
     description: "The Lightness of chiffon meets the artistry of crochet.",
   },
-
   {
     id: 14,
+    name: "Prayer Dress",
+    category: "Accessories",
+    sub: "Simple · Elegant · comfortable",
+    price: 400,
+    emoji: "✨",
+    images: ["accessories/Prayer_dress"],
+    description: "Simple and elegant prayer dress for comfortable daily wear.",
+  },
+
+  {
+    id: 15,
     name: "Neck Shoulder Sleeve Extender",
     category: "Accessories",
     sub: "Flexible · Comfortable",
@@ -194,7 +204,7 @@ export const PRODUCTS = [
       "Enhance your outfits with extra neck, shoulder, and sleeve coverage. Soft, breathable, and comfortable all day.",
   },
   {
-    id: 15,
+    id: 16,
     name: "Hand Sleeves",
     category: "Accessories",
     sub: "Flexible · Comfortable",
@@ -205,7 +215,7 @@ export const PRODUCTS = [
       "Lightweight arm sleeves offering modest coverage and all-day comfort.",
   },
   {
-    id: 16,
+    id: 17,
     name: "Hijab Cap",
     category: "Accessories",
     sub: "Breathable · Essential",
@@ -216,7 +226,7 @@ export const PRODUCTS = [
       "Breathable inner cap designed to keep hijabs in place comfortably.",
   },
   {
-    id: 17,
+    id: 18,
     name: "Tie Cap",
     category: "Accessories",
     sub: "Adjustable · Secure",
@@ -227,7 +237,7 @@ export const PRODUCTS = [
       "Adjustable tie-back cap that provides a secure and comfortable fit under hijabs.",
   },
   {
-    id: 18,
+    id: 19,
     name: "Turban Cap",
     category: "Accessories",
     sub: " Comfortable · Stylish ",
@@ -239,7 +249,7 @@ export const PRODUCTS = [
   },
 
   {
-    id: 19,
+    id: 20,
     name: "Scrunchies Set",
     category: "Accessories",
     sub: "Gentle · Trendy",
@@ -250,7 +260,7 @@ export const PRODUCTS = [
       "Soft fabric scrunchies that hold hair gently without causing damage.",
   },
   {
-    id: 20,
+    id: 21,
     name: "Zera Hair Clip (1 pc) ",
     category: "Accessories",
     sub: "Elegant · Practical",
@@ -260,13 +270,34 @@ export const PRODUCTS = [
     description: "Durable hair clip for secure hold and effortless styling.",
   },
   {
-    id: 21,
+    id: 22,
     name: "Hijab Pin Set",
     category: "Accessories",
     sub: "Secure · Elegant",
     price: 50,
     emoji: "✨",
     images: ["accessories/pins"],
+    description: "Stylish and secure pin set for fastening hijabs with ease.",
+  },
+  {
+    id: 23,
+    name: "Brooches",
+    category: "Accessories",
+    sub: "Elegant · Secure · Stylish",
+    price: "50 - 160",
+    emoji: "✨",
+    images: ["accessories/brooches"],
+    description:
+      "Elegant brooches to add a touch of style and secure your hijab effortlessly.",
+  },
+  {
+    id: 24,
+    name: "Ball Hijab Pin Set",
+    category: "Accessories",
+    sub: "Sharp · Secure · Stylish",
+    price: 50,
+    emoji: "✨",
+    images: ["accessories/ball_pin"],
     description: "Stylish and secure pin set for fastening hijabs with ease.",
   },
 ];
